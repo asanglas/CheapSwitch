@@ -1,0 +1,9 @@
+﻿  CheapSwitch.cpp
+C:\Dev\FootSwitch\CheapSwitch\CheapSwitch\CheapSwitch.cpp(56,9): warning C4101: 'hAccelTable': unreferenced local variable
+C:\Dev\FootSwitch\CheapSwitch\CheapSwitch\CheapSwitch.cpp(260,28): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Dev\FootSwitch\CheapSwitch\CheapSwitch\CheapSwitch.cpp(267,32): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Console.cpp
+  Console.h
+  Generating Code...
+x64\Debug\Console.obj : warning LNK4042: object specified more than once; extras ignored
+  CheapSwitch.vcxproj -> C:\Dev\FootSwitch\CheapSwitch\x64\Debug\CheapSwitch.exe
